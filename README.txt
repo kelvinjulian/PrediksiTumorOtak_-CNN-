@@ -3,5 +3,3 @@ Sumber belajar :
 - Prediksi Tumor Otak (Convolutional Neural Network) | Deep Learning Project 1
 - by Deinony on Youtube
 - https://youtu.be/Dn3gXVrK8zU?si=LyrJ5GMJoJvV3S1r
-
-BUKA DI GOOGLE COLAB klvinjulianputra@gmail.com
